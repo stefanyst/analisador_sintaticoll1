@@ -1,0 +1,9 @@
+nonTerminal,terminal,production
+S,a,AB
+S,b,AC
+A,a,a
+A,b,ε
+B,a,ε
+B,b,b
+C,a,ε
+C,b,c
